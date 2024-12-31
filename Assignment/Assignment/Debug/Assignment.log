@@ -1,0 +1,6 @@
+﻿  Sales.c
+C:\Users\khtee\OneDrive\Desktop\PCD2-Assignment\Assignment (1)\Assignment\Assignment\Sales.c(241,12): warning C4013: 'shortID' undefined; assuming extern returning int
+C:\Users\khtee\OneDrive\Desktop\PCD2-Assignment\Assignment (1)\Assignment\Assignment\Sales.c(244,11): warning C4013: 'longID' undefined; assuming extern returning int
+C:\Users\khtee\OneDrive\Desktop\PCD2-Assignment\Assignment (1)\Assignment\Assignment\Sales.c(300,70): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\khtee\OneDrive\Desktop\PCD2-Assignment\Assignment (1)\Assignment\Assignment\Sales.c(344,26): warning C4129: '|': unrecognized character escape sequence
+  Assignment.vcxproj -> C:\Users\khtee\OneDrive\Desktop\PCD2-Assignment\Assignment (1)\Assignment\Debug\Assignment.exe
