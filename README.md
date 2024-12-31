@@ -1,4 +1,4 @@
-# PCD2-Admin_Maintenance_for-_store
+<p style="color: #001eff;"># PCD2-Admin_Maintenance_for-_store</p>
 
 In this programs, there are four modules which are Member, Staff, Sales and Stock.<br/>
 For Member and Stock modules we are using text file to store the data.<br/>
